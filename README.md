@@ -1,3 +1,4 @@
+![logo](https://github.com/MuqeetVohra/MuqeetVohra/blob/main/Muqeet.png)
 <h1 align="center">Hi 👋, I'm Muqeet Vohra</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
